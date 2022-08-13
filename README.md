@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robert-devs
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript,typescript,node.js
+- 🌱 I’m currently learning html, css ,javascript,typescript and node.js
 - 💞️ I’m looking to collaborate on frontend work
 - 📫 How to reach me ...
 
