@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @robert-devs<br>- 👀 I’m interested in web development<br>- 🌱 I’m currently learning Chakra UI and TailWind<br>- 💞️ I’m looking to collaborate on frontend and backend work
+- 👋 Hi, I’m @robert-maina<br>- 👀 I’m interested in web development<br>- 🌱 I’m currently learning Chakra UI and TailWind<br>- 💞️ I’m looking to collaborate on frontend and backend work
 
 
 ## 🌐 Socials:
